@@ -1,0 +1,6 @@
+results/*
+asap_data/*
+data/*
+*.bin
+*.pkl
+pretrained_weight/*
